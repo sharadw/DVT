@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DVTWeather</string>
+    //permission
+    <string name="enable_permission">Enable Permission</string>
+    <string name="grant_call_permission_message">Call Phone access permission is required in order to make call</string>
+    <string name="microphone_permission_message">Microphone access is required in order to record audio</string>
+    <string name="camera_permission_message">Camera access permission is required in order to capture photo</string>
+    <string name="sms_permission_message">SMS access permission is required in order to capture OTP</string>
+    <string name="location_permission_message">Location permission is required, TO make your experience better</string>
+    <string name="read_external_storage_permission_message">Read External Storage access permission is required in order to store captured photo, store recorded audio</string>
+    <string name="loading">Loding...</string>
+
+    <string name="server_error_title">Your request could not be completed</string>
+    <string name="server_error_message">An unforeseen error was encountered on the server.</string>
+    <string name="server_error_message_no_contact_no">An unforeseen error was encountered on the server.</string>
+
+</resources>
